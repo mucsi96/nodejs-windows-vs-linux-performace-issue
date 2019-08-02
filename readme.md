@@ -16,7 +16,6 @@ PS C:\Users\mucsi\repos\nodejs-windows-vs-linux-performace-issue> npm start
 
 Hello world
 Total time: 1362.697099
-PS C:\Users\mucsi\repos\nodejs-windows-vs-linux-performace-issue>
 ```
 
 ### Ubuntu 19.04
