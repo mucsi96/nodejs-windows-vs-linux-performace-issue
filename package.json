@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-windows-vs-linux-performace-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node --inspect-brk index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucsi96/nodejs-windows-vs-linux-performace-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mucsi96/nodejs-windows-vs-linux-performace-issue/issues"
+  },
+  "homepage": "https://github.com/mucsi96/nodejs-windows-vs-linux-performace-issue#readme",
+  "dependencies": {
+    "jsdom": "^15.1.1"
+  }
+}
